@@ -1,5 +1,6 @@
-# 💫 About Me:
-As a passionate developer specializing in PHP, WordPress, and Shopify, I strive to create robust, scalable, and user-friendly solutions. This repository serves as a showcase of my work and skills in these technologies. Feel free to explore the projects and get in touch if you have any questions or collaboration opportunities.<br>
+Hey Haris here
+Full Stack Developer
+As a full stack developer, I've worked with a wide range of front-end and back-end technologies, managing all aspects of web development from the user interface to the server-side. This allows me to build, develop, and maintain web applications from start to finish..<br>
 
 
 ## 🌐 Socials:
