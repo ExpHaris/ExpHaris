@@ -11,7 +11,7 @@ As a Full Stack Developer, I possess a comprehensive understanding of the entire
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/findfarhan" target="blank"><img align="center" src="https://github.com/user-attachments/assets/be9184b2-ad4d-4183-87ba-8dd6da9a269d" alt="https://www.linkedin.com/in/findfarhan/" height="32" width="32" /></a>  <a href="https://www.upwork.com/freelancers/~01db8ace83de24616c" target="blank"><img align="center" src="https://github.com/user-attachments/assets/217fe657-27a4-47b6-a5ed-592e411a0b53" alt="https://www.upwork.com/freelancers/~01db8ace83de24616c" height="32" width="32" /></a> 
+<a href="https://www.linkedin.com/in/findfarhan" target="blank"><img align="center" src="https://github.com/user-attachments/assets/be9184b2-ad4d-4183-87ba-8dd6da9a269d" alt="https://www.linkedin.com/in/findfarhan/" height="32" width="32" /></a>  <a href="https://www.upwork.com/freelancers/~013946fd874cf15a2c" target="blank"><img align="center" src="https://github.com/user-attachments/assets/217fe657-27a4-47b6-a5ed-592e411a0b53" alt="https://www.upwork.com/freelancers/~013946fd874cf15a2c" height="32" width="32" /></a> 
 
 
 ### GitHub Stats:
